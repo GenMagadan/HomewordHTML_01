@@ -1,0 +1,20 @@
+.products {
+  display: flex;
+  justify-content: space-around;
+}
+img {
+  height: 500px;
+  width: 400px;
+}
+.menu-link {
+  text-decoration: none;
+  color: cornflowerblue;
+  font-size: 16px;
+  line-height: 20px;
+}
+.main-heading {
+  color: #222;
+  font-size: 28px;
+  line-height: 36px;
+  font-weight: bold;
+}
