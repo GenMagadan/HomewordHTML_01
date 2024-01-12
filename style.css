@@ -18,3 +18,34 @@ img {
   line-height: 36px;
   font-weight: bold;
 }
+.text {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 30px;
+  color: #7d7987;
+}
+
+.text_products {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 22px;
+  line-height: 36px;
+  color: #481bb9;
+}
+
+.subhead {
+  color: coral;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 80px;
+}
+
+.subhead_products {
+  color: coral;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 60px;
+}
